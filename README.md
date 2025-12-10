@@ -1,2 +1,2 @@
-# Dataset for Tomography of Floquet-Engineered Many-Body Hamiltonians
-This is a dataset for paper "Efficient Tomography of Floquet-Engineered Many-Body Hamiltonians via Prethermal Gibbs-State Interferometry".
+# Dataset for Experimental Tomography of Quantum Many-body Hamiltonians in Solids via Thermalization
+This is a dataset for paper "Experimental Tomography of Quantum Many-body Hamiltonians in Solids via Thermalization".
